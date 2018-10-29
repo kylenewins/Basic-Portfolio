@@ -1,0 +1,71 @@
+header {
+    position:relative;
+    left:9%;
+    font-size:32px;
+    padding:20px;
+    background-color: #226601;
+    color: white;
+    width:960px;
+}
+
+
+.contact {
+    float:right;
+    text-align:right;
+    color:white;
+    font-size:18px;
+    padding:10px;
+}
+
+.portfolio {
+    float:right;
+    text-align:right;
+    color:white;
+    font-size:18px;
+    padding:10px;
+}
+
+.about {
+    float:right;
+    text-align:right;
+    color:white;
+    font-size:18px;
+    padding:10px;
+}
+
+body{
+    background-color:lightgreen;
+    height:100%;
+}
+
+h1 {
+    margin-left:10px;
+    font-size:32px;
+}
+
+#contentBox {
+    background-color:#8aa6ad;
+    position:absolute;
+    left:10%;
+    right:20%;
+    width:960px;
+    margin-bottom:20px;
+    border:solid black 3px;
+}
+
+#profImage {
+    float:left;
+    margin-left:20px;
+    margin-right:20px;
+    margin-bottom:20px;
+}
+
+#footer {
+    position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;   /* Height of the footer */
+   background:#6cf;
+}
+
+
