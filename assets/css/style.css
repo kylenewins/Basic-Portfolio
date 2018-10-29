@@ -3,11 +3,11 @@ header {
     left:9%;
     font-size:32px;
     padding:20px;
-    background-color: #226601;
+    background-color:#717782;
     color: white;
     width:960px;
+    border:solid black 3px;
 }
-
 
 .contact {
     float:right;
@@ -34,7 +34,7 @@ header {
 }
 
 body{
-    background-color:lightgreen;
+    background-color: #4c6049;
     height:100%;
 }
 
@@ -58,6 +58,16 @@ h1 {
     margin-left:20px;
     margin-right:20px;
     margin-bottom:20px;
+}
+
+#contactForm {
+    float:center;
+    padding:20px;
+}
+
+textarea {
+    height:200px;
+    width:500px;
 }
 
 #footer {
